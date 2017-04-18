@@ -1,8 +1,8 @@
 body {
-  background:yellow;
-}
+  background: lightgreen; }
 
 h1 {
-	display: -ms-flexbox;
-	display: flex;
-}
+  display: -ms-flexbox;
+  display: flex; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIl9ob21lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSx1QkFBc0IsRUFDdkI7O0FBRUQ7RUFDQyxxQkFBYTtFQUFiLGNBQWEsRUFDYiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICBiYWNrZ3JvdW5kOiBsaWdodGdyZWVuO1xufVxuXG5oMSB7XG5cdGRpc3BsYXk6IGZsZXg7XG59XG4iXX0= */
